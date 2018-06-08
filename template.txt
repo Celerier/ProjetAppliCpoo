@@ -1,0 +1,28 @@
+Convention numero <numConv>
+relative au projet numero <numProjet> : <titreProjet>
+
+
+
+<T>
+
+
+
+
+Entreprise : <nomEntreprise>
+Responsable de la junior entreprise : <nomResponsable>
+ Dates debut du projet : <debutProjet>
+Prix du projet :<prix>
+Les etudiants sont
+<listeEtudiant> 
+
+
+
+
+
+ Commentaires :
+
+
+
+Signature et date
+
+ Junior	                                         		entreprise
